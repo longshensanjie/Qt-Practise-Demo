@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/bulm.ico</file>
+        <file>icon/close.png</file>
+        <file>icon/closeshow.png</file>
+        <file>icon/closeshow_hover.png</file>
+        <file>icon/closeshow_press.png</file>
+        <file>icon/core.png</file>
+        <file>icon/createpro.png</file>
+        <file>icon/dir.png</file>
+        <file>icon/down.png</file>
+        <file>icon/import.png</file>
+        <file>icon/left.png</file>
+        <file>icon/music.png</file>
+        <file>icon/next.png</file>
+        <file>icon/next_hover.png</file>
+        <file>icon/next_press.png</file>
+        <file>icon/openpro.png</file>
+        <file>icon/pause.png</file>
+        <file>icon/pause_hover.png</file>
+        <file>icon/pause_press.png</file>
+        <file>icon/pic.png</file>
+        <file>icon/play.png</file>
+        <file>icon/play_hover.png</file>
+        <file>icon/play_press.png</file>
+        <file>icon/previous.png</file>
+        <file>icon/previous_hover.png</file>
+        <file>icon/previous_press.png</file>
+        <file>icon/right.png</file>
+        <file>icon/show.jpg</file>
+        <file>icon/slideshow.png</file>
+        <file>style/style.qss</file>
+    </qresource>
+</RCC>

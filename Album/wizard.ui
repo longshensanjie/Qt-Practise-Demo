@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Wizard</class>
+ <widget class="QWizard" name="Wizard">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Wizard</string>
+  </property>
+  <widget class="ProSetPage" name="wizardPage1"/>
+  <widget class="ConfirmPage" name="wizardPage2"/>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>ProSetPage</class>
+   <extends>QWizardPage</extends>
+   <header>prosetpage.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>ConfirmPage</class>
+   <extends>QWizardPage</extends>
+   <header>confirmpage.h</header>
+   <container>1</container>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>
